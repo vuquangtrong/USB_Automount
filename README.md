@@ -11,4 +11,4 @@ cd USB_Automount
 
 ## Auto-mount point
 
-Plugged-in USB will be mounted into /media/<Label> or /media/<sdXy>.
+Plugged-in USB will be mounted into `/media/<Label>` or `/media/<sdXy>`.
